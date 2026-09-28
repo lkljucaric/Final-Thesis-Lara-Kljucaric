@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <title>BookBot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/chatbot.css') }}">
+</head>
+<body>
+
+    <div class="okvir">
+
+        <div class="zaglavlje">
+            <img src="{{ url_for('static', filename='slike/knjige.png') }}" class="slikaZaglavlja lijevaSlika" alt="Knjige">
+
+            <div class="tekstZaglavlja">
+                <h1>BookBot – pametni knjižnični asistent</h1>
+
+                <p class="opis">
+                    Postavi pitanje o knjigama, autorima ili pravilima knjižnice.
+                    <br>
+                    BookBot će ti pomoći pronaći informacije iz baze knjižnice brzo i jednostavno. 😊
+                </p>
+            </div>
+
+            <img src="{{ url_for('static', filename='slike/knjige2.png') }}" class="slikaZaglavlja desnaSlika" alt="Knjige">
+        </div>
+
+        <div id="razgovor" class="prozorRazgovora">
+            <div class="redPoruke redBota">
+                <img src="{{ url_for('static', filename='slike/robot.jpg') }}" class="avatarBota" alt="BookBot">
+
+                <div class="poruka porukaBota">
+                    <strong>BookBot:</strong> Bok! Ja sam BookBot, tvoj virtualni knjižnični pomoćnik. Mogu ti pomoći pronaći knjigu, provjeriti dostupnost, preporučiti naslov ili odgovoriti na pitanja o pravilima knjižnice. 📖
+                </div>
+            </div>
+        </div>
+
+        <form id="obrazac" class="unosPoruke">
+            <input type="text" id="unos" placeholder="Upiši pitanje..." autocomplete="off">
+            <button type="submit">Pošalji</button>
+        </form>
+
+        <div class="donjiTekst">
+            <span></span>
+            <p>📖 Tvoja knjižnica. Tvoje znanje. 📖 © Lara Ključarić</p>
+            <span></span>
+        </div>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

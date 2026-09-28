@@ -1,0 +1,175 @@
+PRAVILA I INFORMACIJE O KNJIŽNICI
+
+Knjižnica je namijenjena studentima, nastavnicima, zaposlenicima i ostalim korisnicima koji žele posuđivati knjige, koristiti čitaonicu, pretraživati knjižničnu građu ili dobiti pomoć pri pronalaženju literature.
+
+RADNO VRIJEME
+
+Knjižnica radi od ponedjeljka do petka od 8:00 do 20:00.
+
+Subotom knjižnica radi od 9:00 do 13:00.
+
+Nedjeljom i blagdanima knjižnica je zatvorena.
+
+Čitaonica je dostupna u radnom vremenu knjižnice.
+
+U slučaju promjene radnog vremena korisnici se obavještavaju putem mrežne stranice knjižnice i oglasne ploče.
+
+
+ČLANSTVO
+
+Članom knjižnice može postati svaki student, nastavnik, zaposlenik ili vanjski korisnik koji ispuni pristupnicu.
+
+Studenti ostvaruju pravo na besplatno članstvo uz predočenje studentske iskaznice.
+
+Vanjski korisnici plaćaju godišnju članarinu koja iznosi 10 eura.
+
+Članska iskaznica koristi se prilikom posudbe, vraćanja i rezervacije knjiga.
+
+Korisnik je dužan čuvati člansku iskaznicu i prijaviti njezin gubitak.
+
+
+POSUDBA KNJIGA
+
+Korisnik može odjednom posuditi najviše 5 knjiga.
+
+Rok posudbe knjiga je 30 dana.
+
+Knjige se mogu posuditi samo ako su označene kao dostupne.
+
+Knjige koje su trenutno posuđene mogu se rezervirati.
+
+Referentna građa, enciklopedije, rječnici, časopisi i završni radovi koriste se samo u prostoru knjižnice.
+
+
+PRODULJENJE POSUDBE
+
+Posudbu je moguće produljiti jednom, za dodatnih 15 dana.
+
+Posudba se ne može produljiti ako je knjigu rezervirao drugi korisnik.
+
+Produljenje se može zatražiti osobno u knjižnici, e-mailom ili telefonom.
+
+Korisnik treba zatražiti produljenje prije isteka roka posudbe.
+
+
+VRAĆANJE KNJIGA
+
+Knjige se vraćaju na pult knjižnice tijekom radnog vremena.
+
+Korisnik je dužan vratiti knjigu u istom stanju u kojem ju je posudio.
+
+Ako korisnik kasni s vraćanjem knjige, knjižnica može privremeno ograničiti daljnju posudbu.
+
+
+REZERVACIJE
+
+Korisnik može rezervirati knjigu koja je trenutno posuđena.
+
+Kada rezervirana knjiga postane dostupna, korisnik se obavještava e-mailom.
+
+Rezervirana knjiga čuva se za korisnika 3 radna dana.
+
+Ako korisnik ne preuzme rezerviranu knjigu u roku, rezervacija se poništava.
+
+
+IZGUBLJENE I OŠTEĆENE KNJIGE
+
+Korisnik je odgovoran za knjige koje posudi.
+
+Ako korisnik izgubi knjigu, dužan je nabaviti isti naslov ili nadoknaditi vrijednost knjige.
+
+Ako korisnik ošteti knjigu, knjižnica procjenjuje način nadoknade štete.
+
+Nije dopušteno pisati po knjigama, podcrtavati tekst, savijati stranice ili trgati dijelove knjige.
+
+
+KORIŠTENJE ČITAONICE
+
+U čitaonici je potrebno održavati tišinu.
+
+Korisnici mogu koristiti vlastita prijenosna računala.
+
+U čitaonici je dopušteno koristiti knjige, bilješke i digitalne izvore za učenje i istraživanje.
+
+Nije dopušteno glasno razgovarati, ometati druge korisnike ili zauzimati mjesto ako se ono ne koristi.
+
+
+KORIŠTENJE RAČUNALA
+
+Računala u knjižnici namijenjena su pretraživanju kataloga, učenju, pisanju radova i istraživanju.
+
+Nije dopušteno instalirati programe bez dopuštenja knjižničara.
+
+Nije dopušteno koristiti računala za neprimjerene sadržaje ili aktivnosti koje nisu povezane s učenjem i istraživanjem.
+
+
+POMOĆ KORISNICIMA
+
+Knjižničar pomaže korisnicima pri pronalaženju knjiga, korištenju kataloga i odabiru literature.
+
+Korisnik može zatražiti pomoć pri pretraživanju građe prema autoru, naslovu, temi, žanru ili ključnoj riječi.
+
+Knjižnica može pomoći studentima pri pronalaženju izvora za seminarske, završne i stručne radove.
+
+
+KATALOG I PRETRAŽIVANJE
+
+Knjige se u knjižnici mogu pretraživati prema naslovu, autoru, žanru, kategoriji, ključnim riječima i dostupnosti.
+
+Svaka knjiga ima svoju lokaciju koja označava policu ili odjel na kojem se nalazi.
+
+Ako je knjiga označena kao dostupna, korisnik ju može posuditi.
+
+Ako je knjiga označena kao posuđena, korisnik ju može rezervirati.
+
+Ako je knjiga označena kao rezervirana, korisnik treba pričekati dok ne postane dostupna.
+
+
+KONTAKT
+
+Korisnik može kontaktirati knjižnicu osobno, telefonom ili e-mailom.
+
+E-mail knjižnice je [knjiznica@example.com](mailto:knjiznica@example.com).
+
+Telefon knjižnice je 01/1234-567.
+
+Za opća pitanja korisnik se može obratiti knjižničaru tijekom radnog vremena.
+
+
+PRAVILA PONAŠANJA
+
+U prostoru knjižnice potrebno je poštovati druge korisnike i djelatnike knjižnice.
+
+Nije dopušteno stvarati buku, oštećivati građu ili ometati rad drugih korisnika.
+
+Hrana nije dopuštena u prostoru čitaonice.
+
+Piće je dopušteno samo u zatvorenim bocama.
+
+Korisnici su dužni čuvati knjižničnu građu i prostor knjižnice.
+
+
+AI ASISTENT KNJIŽNICE
+
+AI asistent knjižnice pomaže korisnicima u pronalaženju knjiga, provjeri dostupnosti, preporuci literature i odgovaranju na pitanja o pravilima knjižnice.
+
+AI asistent odgovara na temelju baze knjiga i pravila knjižnice.
+
+Ako AI asistent nema informaciju u bazi znanja, treba reći da nema tu informaciju.
+
+AI asistent ne smije izmišljati naslove, autore, dostupnost knjiga ili pravila knjižnice.
+
+Za službene i konačne informacije korisnik se može obratiti knjižničaru.
+
+
+SANKCIJE
+
+Ukoliko je knjiga vraćena nakon zadanog roka za povrat, svaki zakašnjeli dan naplaćuje se 0,50 eura.
+
+Ako korisnik vrati knjigu oštećenu, dužan je podmiriti trošak popravka ili zamjene knjige, ovisno o razini oštećenja.
+
+Korisnik koji ima nepodmirene zakasnine ili druge dugove prema knjižnici ne može posuđivati nove knjige dok ne podmiri dugovanje.
+
+Ako korisnik više puta kasni s vraćanjem knjiga, knjižnica mu može privremeno ograničiti pravo posudbe.
+
+U slučaju neprimjerenog ponašanja u prostoru knjižnice, korisnik može biti upozoren, a kod ponavljanja prekršaja može mu se privremeno zabraniti korištenje čitaonice.
